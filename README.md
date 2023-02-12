@@ -3,8 +3,8 @@ Sales Report from AdventureWorks using Power BI and SSAS Tabular Cube
 
 Refer to SSAS_Tabular_Cube repository for Tabular model creation from AdvatureWorks DW database.
 
-<img width="911" alt="Overview" src="https://user-images.githubusercontent.com/118220804/218279362-02bf17c0-3155-4bca-bb62-3b349b910bf8.png">
+<img width="911" alt="Overview" src="https://user-images.githubusercontent.com/118220804/218331813-a213608a-277e-4fee-952a-40fba3c46c51.png">
 
-<img width="911" alt="Product" src="https://user-images.githubusercontent.com/118220804/218279366-308b99b3-46a9-4e36-9151-ec72f9a29183.png">
+<img width="912" alt="Product" src="https://user-images.githubusercontent.com/118220804/218331817-68040af6-a562-4d7d-a893-55bd97f036db.png">
 
-<img width="913" alt="Region" src="https://user-images.githubusercontent.com/118220804/218279372-0eec2d06-75be-4d54-a4d1-f5baa08d58d3.png">
+<img width="913" alt="Region" src="https://user-images.githubusercontent.com/118220804/218331823-4685d8d3-0fc1-4ba3-b866-05badc7a9d33.png">
